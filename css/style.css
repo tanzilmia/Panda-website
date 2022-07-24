@@ -9,3 +9,19 @@
     text-decoration: none;
     font-family: 'Poppins', sans-serif;
 }
+.slider_bg, .contact_container{
+    background: #FCEAE8;
+}
+.common_btn{
+    background: #FF2D80;
+    margin-top: 1rem;
+}
+.slider_section{
+    margin-top: 100px;
+}
+.catagories img{
+    width: 100px;
+}
+.contact__div{
+    width: 350px;
+}
